@@ -1,6 +1,3 @@
-Aqui está uma proposta de **README.md** profissional e estruturado para documentar os scripts e arquivos SQL fornecidos.
-
----
 
 # Processamento de Projeções Populacionais (ETL) - Goiás
 
